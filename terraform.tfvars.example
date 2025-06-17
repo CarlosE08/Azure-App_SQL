@@ -12,6 +12,6 @@ creation_database_id = ""
 
 
 sku_name = ""    # tier y size combinados
-os_type  = "" #
+os_type  = ""
 
 appservice_command = ""
